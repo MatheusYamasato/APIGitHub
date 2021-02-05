@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: whitesmoke;
+}
+
+main {
+    height: 760px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
